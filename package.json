@@ -1,6 +1,6 @@
 {
   "name": "guten-star-component",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "React component to showcase star rating in Gutenberg block development",
   "main": "dist/bundle.js",
   "scripts": {
