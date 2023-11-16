@@ -12,6 +12,13 @@
     "type": "git",
     "url": "https://github.com/zakariabinsaifullah/guten-star-component"
   },
+  "keywords": [
+    "star rating",
+    "react star rating",
+    "star",
+    "gutenberg star rating",
+    "gutenberg component"
+  ],
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.23.0",
